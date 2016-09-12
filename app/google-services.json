@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "858548220496",
+    "firebase_url": "https://simple-chat-app-using-firebase.firebaseio.com",
+    "project_id": "simple-chat-app-using-firebase",
+    "storage_bucket": "simple-chat-app-using-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858548220496:android:e98c5172858d7ef6",
+        "android_client_info": {
+          "package_name": "com.venndingal.simplechatappusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858548220496-dr5j5rslsmmk995226jd2c8p7kvc4geh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllPQsZnMMFnlCts7BcsihPcKciMv6aQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
